@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1609fcf3.css",
-    "main.js": "/static/js/main.429f6211.js",
+    "main.css": "/static/css/main.8f74621c.css",
+    "main.js": "/static/js/main.e76bca2c.js",
     "static/js/787.2a5091ce.chunk.js": "/static/js/787.2a5091ce.chunk.js",
     "static/media/Onest-ExtraBold.woff": "/static/media/Onest-ExtraBold.3d9d978ca4f4b10d0745.woff",
     "static/media/Onest-Medium.woff": "/static/media/Onest-Medium.de18cb08d4674671cc46.woff",
@@ -24,12 +24,12 @@
     "static/media/black_check.svg": "/static/media/black_check.07e67a8f475b2c9befeb81fd24d650cb.svg",
     "static/media/close-modal.svg": "/static/media/close-modal.7f93df1181bdc79b475974428b8d4547.svg",
     "static/media/line.svg": "/static/media/line.a9c84824a0c6146d31d7cf815650fc1b.svg",
-    "main.1609fcf3.css.map": "/static/css/main.1609fcf3.css.map",
-    "main.429f6211.js.map": "/static/js/main.429f6211.js.map",
+    "main.8f74621c.css.map": "/static/css/main.8f74621c.css.map",
+    "main.e76bca2c.js.map": "/static/js/main.e76bca2c.js.map",
     "787.2a5091ce.chunk.js.map": "/static/js/787.2a5091ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1609fcf3.css",
-    "static/js/main.429f6211.js"
+    "static/css/main.8f74621c.css",
+    "static/js/main.e76bca2c.js"
   ]
 }
